@@ -1,2 +1,2 @@
 # google-homepage
-Test project from http://codenamecrud.ru/
+Test project for http://codenamecrud.ru/basics-of-web-development/project-html-css
